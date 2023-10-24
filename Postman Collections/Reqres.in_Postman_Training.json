@@ -6,7 +6,7 @@
 	},
 	"item": [
 		{
-			"name": "GET - Set Variables Before Run",
+			"name": "1.0 GET - Set Variables Before Run",
 			"item": [
 				{
 					"name": "Page1",
@@ -171,7 +171,7 @@
 			"id": "5fe5dcd3-1c45-469a-a7bf-3c07bd018b13"
 		},
 		{
-			"name": "GET - Status Code",
+			"name": "1.1 GET - Status Code",
 			"item": [
 				{
 					"name": "StatusCode=200",
@@ -231,7 +231,7 @@
 			"id": "712b2218-9e04-4e46-b2c5-257d8cbf0b78"
 		},
 		{
-			"name": "POST - Register",
+			"name": "1.3 POST - Register",
 			"item": [
 				{
 					"name": "Register - SUCCESSFUL",
@@ -367,7 +367,7 @@
 			"id": "1df4986a-4091-47a2-91a7-06f960bda54e"
 		},
 		{
-			"name": "GET - Variables from csv file",
+			"name": "1.4 GET - Variables from csv file",
 			"item": [
 				{
 					"name": "Get users",
@@ -400,7 +400,7 @@
 			"id": "d8ead1db-8b5f-4bb5-bd51-33884df8c6e7"
 		},
 		{
-			"name": "GET - Check specific tag values",
+			"name": "1.5 GET - Check specific tag values",
 			"item": [
 				{
 					"name": "Check user 1 (id, email, first_name, last_name)",
@@ -547,7 +547,7 @@
 			"id": "8a820cd3-a587-460c-acba-d203ddd25dd3"
 		},
 		{
-			"name": "POST, PUT, PATCH, DELETE",
+			"name": "1.6 POST, PUT, PATCH, DELETE",
 			"item": [
 				{
 					"name": "Create USER",
